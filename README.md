@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mikal
 
-Software developer current working on [concerto card](https://www.concertocard.com), my [digital garden](https://www.mikal.online), [scalaquote](https://github.com/mikalcallahan/scalaquote), and an iOS/watchOS meditation app (in TestFlight).
+Software developer current working on [concerto card](https://www.concertocard.com), my [digital garden](https://www.mikal.online), [effectquote](https://github.com/mikalcallahan/effectquote), and an iOS/watchOS meditation app (in TestFlight).
 Currently I'm hacking away in `typescript`, `swift`, and `scala` and have a fondness for functional programming, technology's role in improving our life/connection with others, and mindfulness. 
 
 <!--
