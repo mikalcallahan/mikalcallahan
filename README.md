@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Mikal
 
-Software developer current working on [concerto card](https://www.concertocard.com), my [digital garden](https://www.mikal.online), [scalaquote](https://github.com/mikalcallahan/scalaquote), and an Apple Watch meditation timer, release tbd (app store keeps rejecting it on the grounds that it's too basic).
-I’m currently hacking away in `typescript`, `scala`, and `swift` and have a fondness for functional programming, technology's role in improving our life, and mindfulness. 
+Software developer current working on [concerto card](https://www.concertocard.com), my [digital garden](https://www.mikal.online), [scalaquote](https://github.com/mikalcallahan/scalaquote), and an iOS/watchOS meditation app (in TestFLight).
+Currently I'm hacking away in `typescript`, `swift`, and `scala` and have a fondness for functional programming, technology's role in improving our life/connection with others, and mindfulness. 
 
 <!--
 **mikalcallahan/mikalcallahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
