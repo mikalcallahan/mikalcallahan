@@ -1,7 +1,9 @@
-### Hi there 👋, I'm Mikal
+### Hey, I'm Mikal 
 
-Software developer current working on [concerto card](https://www.concertocard.com), my [digital garden](https://www.mikal.online), [effectquote](https://github.com/mikalcallahan/effectquote), and an iOS/watchOS meditation app (in TestFlight).
+I am a software engineer currently working at <a href="https://wonderlabs.ca" target="_blank">Wonderlabs Technologies</a>, and on my offtime: my <a href="https://mikal.online" target="_blank">digital garden</a>, <a href="https://github.com/mikalcallahan/effectquote" target="_blank">effectquote</a>, and <a href="https://apps.apple.com/ca/app/moment-meditation/id6590602340" target="_blank">Moment</a>, a meditation app for iOS/watchOS.
 
-Currently I'm hacking away in `typescript`, `swift`, and `scala`
+Hacking away in `typescript`, `swift`, and `scala`
 
-I'm fond of functional programming, technology's role in improving our life/connection with others, and mindfulness.
+I'm fond of functional programming, technology's role in improving our life/connection with others, fitness, and mindfulness (among other things).
+
+My website is <a href="https://mikal.online" target="_blank">https://mikal.online</a> or you can follow me on 𝕏 <a href="https://x.com/mikalcallahan" target="_blank"/>@mikalcallahan</a>
